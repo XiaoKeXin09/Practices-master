@@ -25,7 +25,7 @@
 <img src="https://github.com/XiaoKeXin09/Practices-master/blob/master/screenshoots/imagedemo/device-2016-12-08-105025.png" width="10%" height="10%">
 <img src="https://github.com/XiaoKeXin09/Practices-master/blob/master/screenshoots/imagedemo/device-2016-12-08-161502.png" width="10%" height="10%">
 <img src="https://github.com/XiaoKeXin09/Practices-master/blob/master/screenshoots/imagedemo/1.gif" width="10%" height="10%">
-https://github.com/XiaoKeXin09/Practices-master/blob/master/screenshoots/imagedemo/device-2016-12-07-154944.png
+
 
 
 ##[自定义卫星式菜单](https://github.com/XiaoKeXin09/Practices-master/blob/master/tree/master/srcmenudemo/src/main)

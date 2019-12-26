@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <compositeConfiguration>
+          <compositeBuild compositeDefinitionSource="SCRIPT" />
+        </compositeConfiguration>
+        <option name="distributionType" value="LOCAL" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="gradleHome" value="E:\AndroidStudio\gradle\gradle-2.14.1" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/commonviewholder" />
+            <option value="$PROJECT_DIR$/downloaddemo" />
+            <option value="$PROJECT_DIR$/festivalsms" />
+            <option value="$PROJECT_DIR$/imagedemo" />
+            <option value="$PROJECT_DIR$/myfirstapp" />
+            <option value="$PROJECT_DIR$/mywidget" />
+            <option value="$PROJECT_DIR$/recyclerviewdemo" />
+            <option value="$PROJECT_DIR$/scrollerviewmenu" />
+            <option value="$PROJECT_DIR$/srcmenudemo" />
+            <option value="$PROJECT_DIR$/topbar" />
+            <option value="$PROJECT_DIR$/treeviewdemo" />
+            <option value="$PROJECT_DIR$/wechattalk" />
+            <option value="$PROJECT_DIR$/weixin6.0" />
+            <option value="$PROJECT_DIR$/zxingdemo" />
+          </set>
+        </option>
+        <option name="resolveModulePerSourceSet" value="false" />
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>

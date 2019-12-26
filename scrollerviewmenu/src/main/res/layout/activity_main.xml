@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:mymenu="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@mipmap/img_frame_background"
+    tools:context="com.shmj.mouzhai.scrollerviewmenu.MainActivity">
+
+    <com.shmj.mouzhai.scrollerviewmenu.view.SlidingMenu
+        android:id="@+id/left_menu"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        mymenu:rightPadding="100dp">
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:orientation="horizontal">
+
+            <include layout="@layout/left_menu" />
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:background="@mipmap/qq" >
+
+                <Button
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="@string/toggle_menu"
+                    android:onClick="toggleMenu"/>
+            </LinearLayout>
+        </LinearLayout>
+    </com.shmj.mouzhai.scrollerviewmenu.view.SlidingMenu>
+</RelativeLayout>
